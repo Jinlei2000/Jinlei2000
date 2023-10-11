@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lei</h1>
-# 💫 About Me:
+💫 About Me:
 I'm a passionate full-stack developer from Belgium with a deep love for coding.
 
 
